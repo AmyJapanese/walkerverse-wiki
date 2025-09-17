@@ -1,12 +1,13 @@
 ---
-title: 全米魔法学園物語
-slug: usa-academy
+title: 全米魔法学園物語　場所一覧
+slug: usa-location
 date: 2025-08-23
 draft: false
 type: wiki
 summary: ""
 description: ""
-tags: [全米魔法学校物語]
+tags:
+  - 全米魔法学園物語
 characters: []
 places: []
 items: []
@@ -21,4 +22,6 @@ weight: 3
 
 # 全米魔法学園物語　場所一覧
 
-## [５０州はこちらから](states)
+- [５０州はこちらから](states)
+- [街はこちらから](cities)
+- [その他地名はこちらから](other)
