@@ -19,6 +19,6 @@ weight: 4
 
 # ウォーカー家　キャラクター一覧
 
-- [エミリー・ウォーカー](Emily_Walker.md)
-- [グレッグ・ウォーカー](Greg_walker.md)
-- [キャロライン・ウォーカー](Caroline_walker.md)
+- [エミリー・ウォーカー](Emily_Walker)
+- [グレッグ・ウォーカー](Greg_walker)
+- [キャロライン・ウォーカー](Caroline_walker)
