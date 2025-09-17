@@ -16,9 +16,10 @@ sources: []
 writings: []
 aliases: []
 images: []
-weight: 110
+weight: 2
 ---
 
 # 全米魔法学園物語　詳細ページ
 
 - [キャラクター一覧](/usa-academy/char/)
+- [場所一覧](/location/)

@@ -16,10 +16,10 @@ sources: []
 writings: []
 aliases: []
 images: []
-weight: 120
+weight: 3
 ---
 
 # 全米魔法学園物語　キャラクター一覧
 
-- [エミリー・ウォーカー](\usa-academy\char\walker\エミリー.md)
-- [グレッグ・ウォーカー](usa-academy\char\walker\グレッグ.md)
+## ウォーカー家
+- [ウォーカー家　名簿](walker)

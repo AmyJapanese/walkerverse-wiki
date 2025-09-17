@@ -16,7 +16,7 @@ sources: []
 writings: []
 aliases: []
 images: []
-weight: 10
+weight: 1
 ---
 
 ## 作品別紹介

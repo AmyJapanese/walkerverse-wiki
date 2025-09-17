@@ -151,7 +151,7 @@ document.head.appendChild(style);
 ```dataviewjs
 // === 設定 ===
 const GRID = 10;          // 10x10 固定
-const PER_CELL = 10;      // 1マス=10記事
+const PER_CELL = 1;      // 1マス=10記事
 const CELL_PX = 14;       // セル一辺(px)
 const GAP_PX  = 2;        // セル間隔(px)
 
@@ -173,7 +173,7 @@ const filled     = Math.min(totalCells, Math.floor(remainder / PER_CELL));
 const pct        = (remainder / perBlock * 100).toFixed(1);
 
 // === テキスト ===
-dv.paragraph(`達成した1000ブロック：${blocks}`);
+dv.paragraph(`達成した100ブロック：${blocks}`);
 dv.paragraph(`現在のブロック進捗：${remainder} / ${perBlock}（${pct}%）`);
 
 // === グリッド（セルの位置を明示指定して左上始まりを強制） ===
